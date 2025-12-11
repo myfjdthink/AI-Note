@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "欢迎.md",
+                "file": "20_Tools/Skyvern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "欢迎"
-            }
-          }
-        ]
-      },
-      {
-        "id": "863cd6ee8773c001",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "281fe2f7751d2230",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "title": "Skyvern"
             }
           }
         ]
@@ -110,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欢迎.md",
+                "file": "20_Tools/Skyvern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "欢迎 的反向链接列表"
+              "title": "Skyvern 的反向链接列表"
             }
           },
           {
@@ -129,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "欢迎.md",
+                "file": "20_Tools/Skyvern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "欢迎 的出链列表"
+              "title": "Skyvern 的出链列表"
             }
           },
           {
@@ -172,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎.md",
+                "file": "20_Tools/Skyvern.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "欢迎 的大纲"
+              "title": "Skyvern 的大纲"
             }
           }
         ]
@@ -199,11 +183,20 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "c9165470effb678d",
+  "active": "c2ef0dbe5abd1660",
   "lastOpenFiles": [
+    "20_Tools/Skyvern.md",
+    "40_Concepts/AI视频技术驱动跨境电商 - 多Agent视频创作实践.md",
+    "20_Tools/新榜小豆芽 - AI多平台内容运营工具.md",
+    "40_Concepts",
+    "20_Tools/BubbleLab - 开源AI工作流平台.md",
+    "30_Products/Refly.AI - Vibe Workflow.md",
+    "20_Tools",
+    "README.md",
+    "欢迎.md",
+    "30_Products",
     "mcp.md",
     "temp.md",
-    "Claude.md",
-    "欢迎.md"
+    "Claude.md"
   ]
 }
